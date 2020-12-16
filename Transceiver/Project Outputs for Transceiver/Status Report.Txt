@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Transceiver.PrjPcb]
+   Generated File[txrx.GTO]
+   Generated File[txrx.GTP]
+   Generated File[txrx.GTS]
+   Generated File[txrx.GTL]
+   Generated File[txrx.GBL]
+   Generated File[txrx.GBS]
+   Generated File[txrx.GBP]
+   Generated File[txrx.GBO]
+   Generated File[txrx.GM1]
+   Generated File[txrx.GM2]
+   Generated File[txrx.GM3]
+   Generated File[txrx.GM5]
+   Generated File[txrx.GM13]
+   Generated File[txrx.GM15]
+   Generated File[txrx.GM16]
+   Generated File[txrx.GM20]
+   Generated File[txrx.GM21]
+   Generated File[txrx.GM23]
+   Generated File[txrx.GM24]
+   Generated File[txrx.GKO]
+   Generated File[txrx.GPT]
+   Generated File[txrx.GPB]
+   Generated File[txrx.GD1]
+   Generated File[txrx.GG1]
+   Generated File[txrx.RUL]
+   Generated File[txrx.EXTREP]
+   Generated File[txrx.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 18:00:00 On 2020/12/09
